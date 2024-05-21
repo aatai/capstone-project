@@ -1,0 +1,3 @@
+index,DIAGNOSED,non-diagnosed
+DIAGNOSED,276,51
+non-diagnosed,2,91
