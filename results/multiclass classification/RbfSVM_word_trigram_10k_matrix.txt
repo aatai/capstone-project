@@ -1,0 +1,8 @@
+index,ADHD,PTSD,anxiety,autism,depression,non-diagnosed,schizophrenia
+ADHD,45,2,1,0,1,1,0
+PTSD,9,39,4,0,1,0,2
+anxiety,15,1,32,0,3,0,0
+autism,20,0,0,27,0,0,0
+depression,23,3,7,0,52,0,3
+non-diagnosed,51,0,0,0,0,28,0
+schizophrenia,27,2,0,0,2,0,21
